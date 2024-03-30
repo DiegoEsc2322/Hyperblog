@@ -2,3 +2,4 @@
 
 * Creado por Mua
 *   Incluye curiosidades
+*   Disponibe para todos
